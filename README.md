@@ -2,11 +2,11 @@
 
 ## Project description
 
-TODO: Replace this line with a 30-300 character description of what this project does. (This is part of the assignment, read on and it will make more sense.)
+This project involves running two scripts that together import a clinic visit dataset, clean blood pressure data, report mean blood pressure across all encounters, and identify a select group of patients with high blood pressure for follow-up.
 
 ## Run
 
-TODO: Replace this line with the Python 3.13 terminal command that runs your report script.
+python3 clinic_report.py
 
 ## Files
 
@@ -30,16 +30,14 @@ assignment/
 Fork the assignment repository on GitHub and clone your fork the way Lecture 01 did: Command Palette → **Git: Clone**, paste your fork's URL, pick a folder, and open it. Then open **Terminal → New Terminal** in VS Code at the assignment directory (Ctrl+Shift+backtick, also Control on Mac). If you use a native terminal or WSL Ubuntu instead, `cd` into the assignment directory first. Run `ls data` and expect `clinic_encounters.csv`. This clone is a new repository, so before your first commit run Lecture 02's two `git config user.name "..."` and `git config user.email "..."` lines in this terminal, with your name and GitHub noreply email.
 
 Open the repository in VS Code, switch to `main`, select **Sync Changes** if Source Control shows it, and finish any outstanding changes. Open the Command Palette, select **Git: Create Branch**, and name the new branch `feature/clinic-report`. Work on that branch until the Submit section.
+git config user.name "alexanderjbeagle"
+git config user.email "62414940+alexanderjbeagle@users.noreply.github.com"
 
 ## Task 1: Document the project
 
 ### 1.1 Describe the project
 
-Replace the `TODO` line under `## Project description` at the top of this file with 30-300 characters of your own text saying what this project reads and what it produces.
-
 ### 1.2 Say how to run it
-
-Replace the `TODO` line under `## Run` with a Python 3.13 command that runs your report script: `python3 clinic_report.py` in Bash, `py -3.13 clinic_report.py` in native Windows PowerShell, or `python clinic_report.py` in an activated Python 3.13 environment. The bare command, a bullet, a fenced code block, and a sentence such as "Run `python3 clinic_report.py` from this folder." all count.
 
 ### 1.3 Keep the Python cache out of Git
 
