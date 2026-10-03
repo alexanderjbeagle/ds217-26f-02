@@ -1,0 +1,4 @@
+Cutoff: 160 mmHg
+Reason: Selected 160 mmHg to target severe HTN.
+P011
+P018

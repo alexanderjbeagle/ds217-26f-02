@@ -1,0 +1,6 @@
+Usable encounters: 25
+Skipped rows: 6
+Patients seen: (['P003', 'P005', 'P015', 'P012', 'P020', 'P002', 'P014', 'P011', 'P017', 'P006', 'P010', 'P026', 'P022', 'P027', 'P001', 'P028', 'P007', 'P021', 'P025', 'P018', 'P023', 'P024', 'P009'], 23)
+Mean systolic: 135.9 mmHg
+Highest systolic: 186 mmHg
+Lowest systolic: 98 mmHg
